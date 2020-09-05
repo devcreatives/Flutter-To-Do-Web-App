@@ -3,13 +3,13 @@
 This is a simple ToDo web app developed in flutter
 
 ## Screenshots
-<img src="ss1.PNG" height="300em" /> <img src="ss2.PNG" height="300em" />
+<img src="ss1.png" height="300em" /> <img src="ss2.png" height="300em" />
 
 ## Found bug
 If you found any bug please add that bug in issue section. so that our team will solve bug as soon as possible.
 
 ## How you can contribute
-This extension is open source anyone can contribute. We are always ready for new ideas and new functionalities so pull request are always welcome
+This web app is open source anyone can contribute. We are always ready for new ideas and new functionalities so pull request are always welcome
 
 This project is a starting point for a Flutter application.
 
