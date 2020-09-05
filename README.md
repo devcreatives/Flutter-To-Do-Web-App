@@ -1,8 +1,15 @@
 # flutter_todo_web_app
 
-A new Flutter project.
+This is a simple ToDo web app developed in flutter
 
-## Getting Started
+## Screenshots
+<img src="ss1.PNG" height="300em" /> <img src="ss2.PNG" height="300em" />
+
+## Found bug
+If you found any bug please add that bug in issue section. so that our team will solve bug as soon as possible.
+
+## How you can contribute
+This extension is open source anyone can contribute. We are always ready for new ideas and new functionalities so pull request are always welcome
 
 This project is a starting point for a Flutter application.
 
