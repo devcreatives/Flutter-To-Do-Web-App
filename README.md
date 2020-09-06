@@ -10,7 +10,9 @@ This a simple ToDo Web App in Flutter
 If you found any bug please add that bug in [issue](https://github.com/learnwithgeeks/Flutter_ToDo_WebApp/issues) section. So that we can solve bug as soon as possible.
 
 ## How you can contribute
-This web app is open source anyone can contribute. We are always ready for new ideas and new functionalities so pull request are always welcome.
+This web app is open source anyone can contribute. We are always ready for new ideas and new functionalities so pull request are always welcome or see [CONTRIBUTING.md](https://github.com/learnwithgeeks/Flutter_ToDo_WebApp/blob/master/CONTRIBUTING.md) file for more information.
+
+** Happy Contributing **
 
 ## Getting Started
 
