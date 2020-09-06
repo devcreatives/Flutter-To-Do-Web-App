@@ -9,4 +9,4 @@
 7. Wait for administrator to merge pull request with master branch.
 8. After doing all above steps now wait to see your changes in master and in production (This process can takes upto few weeks or months when we RELEASED new version).
 
-** Happy Contributing **
+**Happy Contributing**
